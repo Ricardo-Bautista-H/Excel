@@ -1,0 +1,414 @@
+02.07.2020                                           Salida dinámica de lista                                                  1						
+						
+ENGIE ENERGÍA PERU S. A.              Estado de Situación Financiera & Resultados             Hora 13:35:32     Fecha 02.07.2020						
+Perú                      Ledger 0L                                                           RFBILA00/LPOMA    Página         1						
+						
+10			Tipo de moneda Moneda de sociedad			
+USD			Imptes en Dólar americano			
+2020.01 -2020.05			Períodos del informe			
+2020.01 -2020.05			Períodos de comparación	año	año	año
+					2020	
+	Posición	2017	2018	2021	2020	2019
+						
+	200000	ESTADO DE SITUACION FINANCIERA				
+	200000	=============================================				
+	210000	ACTIVOS				
+	210000	=============================================				
+	211000	ACTIVO CORRIENTE				
+	211000					
+	211120	10201001 Fondos Fijos (Cajas Chicas)	0.77	0.77	0.38	0.54
+	211120	10201002 Fondos Fijos (Cajas Chicas)	0.05-	0.05-	0.05-	0.05-
+	211120	10201009 Fondos Fijos  (Cajas Chicas) - VME	0.08-	0.08-	0.07-	0.06-
+	211120	FONDOS FIJOS	0.64	0.64		
+	211130	10411010 Credito MN C.C 193-0223958000 - Principal	357.99	357.99	301.96	357.55
+	211130	10411017 Credito MN C.C 193-0223958000 - Comp Entrada	0.18-	0.18-	0.07-	0.10-
+	211130	10411019 Credito MN C.C 193-0223958000 - VME	57.15-	57.15-	28.55-	55.68-
+	211130	10411110 Credito ME C.C. 193-0243747199 - Principal	1319.65	1319.65	281.23	1067.52
+	211130	10411117 Credito ME C.C. 193-0243747199 - Comp Entrada	5.09-	5.09-	3.18-	4.66-
+	211130	10411118 Credito ME C.C. 193-0243747199 - Compen Salida	0.3	0.3	0.12	0.18
+	211130	10413010 Scotiabank MN C.C 742-3899632 - Principal	79.75	79.75	48.07	38.91
+	211130	10413017 Scotiabank MN C.C 742-3899632 - Comp Entrada	0.05-	0.05-	0.02-	0.04-
+	211130	10413018 Scotiabank MN C.C 742-3899632 - Comp Salida	0.03	0.03	0.01	0.02
+	211130	10413019 Scotiabank MN C.C 742-3899632 - VME	28.05-	28.05-	18.97-	7.56-
+	211130	10413110 Scotiabank ME C.C. 742-1901461 - Principal	1557.64	1557.64	1032.25	974.36
+	211130	10414010 Continental MN. C.C. 0686310100016231 - Principal	393.27	393.27	137.25	25.78
+	211130	10414017 Continental MN. C.C. 0686310100016231 - Comp Ent	0.05-	0.05-	0.01-	0.03-
+	211130	10414018 Continental MN. C.C. 0686310100016231 - Comp Sal	0	0	0	0
+	211130	10414019 Continental MN. C.C. 0686310100016231 - VME	17.83-	17.83-	15.35-	14.68-
+	211130	10414110 Continental ME C.C. 0100510100164764 - Principal	567.05	567.05	546.67	556.01
+	211130	10414117 Continental ME C.C. 0100510100164764 - Comp Ent	0.08-	0.08-	0.08-	0.06-
+	211130	10414118 Continental ME C.C. 0100510100164764 - Comp Sal	0.02	0.02	0.01	0.01
+	211130	10415010 Citibank MN C.C. 2865009 - Principal	64.75	64.75	60.84	54.14
+	211130	10415019 Citibank MN C.C. 2865009 - VME	0.10-	0.10-	0.02-	0.02-
+	211130	10415110 Citibank ME C.C. 2865106 - Principal	201.06	201.06	142	74.73
+	211130	10415117 Citibank ME C.C. 2865106 - Comp Ent	0.02-	0.02-	0.01-	0.02-
+	211130	10416030 Nacion MN C.C. 0000-580821 - Principal	9.65	9.65	9.36	0.49
+	211130	10416037 Nacion MN C.C. 0000-580821 - Comp Ent	0	0	0	0
+	211130	10416039 Nacion MN C.C. 0000-580821 - VME	5.73	5.73	3.61	3.17
+	211130	10417010 Interbank MN C.C. 200-3000936926- Principal	27.6	27.6	25.34	8.69
+	211130	10417019 Interbank MN C.C. 200-3000936926- VME	12.74-	12.74-	10.38-	11.45-
+	211130	10417110 Interbank ME C.C. 200-3000936933 - Principal	46.55	46.55	23.75	6.37
+	211130	BANCO CUENTAS CORRIENTES	4509.68	4509.68		
+	211140	10621010 Credito MN Depositos a Plazo	4.67	4.67	2.49	2.94
+	211140	10621119 BCP Depositos a plazo Valoracion ME	4.67-	4.67-	1.10-	3.86-
+	211140	10622010 HSCB MN Depositos a plazo	2.3	2.3	1.33	0.47
+	211140	10622110 HSBC ME Depositos a plazo	157.38-	157.38-	122.19-	41.24-
+	211140	10623010 Scotiabank MN Depositos a plazo	1.63-	1.63-	0.56-	0.07-
+	211140	10623119 Scotiabank Depositos a plazo VME	1.63	1.63	0.94	0.08
+	211140	10624010 Continental MN Depositos a plazo	5.31-	5.31-	0.44-	3.33-
+	211140	10624119 Continental Depositos a plazo VME	5.31	5.31	2.04	4.85
+	211140	10628010 Interbank MN Depositos a plazo	1.88-	1.88-	0.69-	1.19-
+	211140	10628119 Interbank Depositos a plazo VME	1.88	1.88	1.01	1.57
+	211140	10629110 Santander ME Depositos a plazo	157.38	157.38	60.31	45.06
+	211140	10629999 Depositos a plazo Valoracion ME	2.30-	2.30-	1.42-	2.21-
+	211140	BANCO DEPOSITOS A PLAZO	0	0		
+	211100	EFECTIVO Y EQUIVALENTES AL EFECTIVO	4510.32	4510.32		
+	211100					
+	211200	12110010 Facturas, boletas y otros por cobrar - No Emitidas	1080.82	1080.82	138.55	641.23
+	211200	12110040 Cuentas por Cobrar - Ingreso Garantizado Nodo	107.59	107.59	19.33	5.93
+	211200	12110050 Cuentas por Cobrar - Ingreso Peaky	115.01	115.01	110.1	84.77
+	211200	12110060 Cuentas por Cobrar - Ingreso Garantizado Intipampa	5.77	5.77	4.97	1.15
+	211200	12110099 Cuentas por Cobrar Comerciales A.V.M.E	1.38	1.38	1.31	0.67
+	211200	12120010 Facturas, boletas y otros por cobrar - Emitidas	1497.63	1497.63	183.48	664.36
+	211200	12120099 Ctas por Cob Comerciales Emitidas - Val M.E.	1.07-	1.07-	0.53-	0.44-
+	211200	12200010 Anticipos Recibidos de Clientes	0.06-	0.06-	0	0.04-
+	211200	12200099 Anticipos Recibidos de Clientes - Valoracion M.E.	0	0	0	0
+	211200	19110010 Cobranza Dudosa - Facturas, boletas y otros	21.09-	21.09-	14.96-	10.85-
+	211200	19110020 Provisión Estimación Ctas x Cobrar Emitidas IFRS9	14.24-	14.24-	1.18-	12.13-
+	211200	19110030 Provisión Estimación Ctas Cobrar por Emitir IFRS9	3.92-	3.92-	1.77-	0.50-
+	211200	19190099 Cobranza Dudosa Ctas x Cobrar Com. - Valoracion ME	1.11	1.11	0.64	0.55
+	211200	CUENTAS POR COBRAR COMERCIALES (NETO)	2768.94	2768.94		
+	211200					
+	211300	14120020 Descuento Adelanto Remuneraciones RRHH	0.87-	0.87-	0.60-	0.81-
+	211300	14129089 Adelanto de Remuneraciones - Valoracion M.E.	0.02	0.02	0.01	0
+	211300	14130010 Entregas a rendir cuenta del personal	4.1	4.1	1.69	2.3
+	211300	14130020 Liquidaciones de Gastos Rendidos por Pagar	0.37	0.37	0.35	0.28
+	211300	14139009 Entregas a rendir cuenta - Valoracion M.E.	0.12-	0.12-	0.03-	0.03-
+	211300	16319099 Intereses x Cob Terceros - Valoracion ME	0.02-	0.02-	0.01-	0
+	211300	16400010 Depositos en garantia otorgados por alquileres	0.68	0.68	0.48	0.26
+	211300	16400020 Depositos en garantia otorgados	0.01	0.01	0.01	0.01
+	211300	16490099 Depositos en garantia - Valoracion ME	0.01-	0.01-	0	0
+	211300	16530010 Cuentas por cobrar x venta de Proyectos	95.96	95.96	14.52	49.55
+	211300	16620010 Instrum. Finan.de Cobert. - SWAP Diferencial Tasas	97.4	97.4	86.06	68.28
+	211300	16800010 Otras cuentas por cobrar diversas a terceros	15.92	15.92	9.8	5.73
+	211300	16890099 Otras ctas x cob div terceros - Valoracion M.E.	0.1	0.1	0.02	0.01
+	211300	42200010 Anticipos Otorgados a Proveedores Nacionales	39.1	39.1	33.98	4.1
+	211300	42200011 Anticipos Otorgados a Prov Nacionales Capex	81.31	81.31	19.33	32.46
+	211300	42200020 Anticipos Otorgados a Proveedores Extranjeros	6.71	6.71	1.12	0.69
+	211300	42200021 Anticipos Otorgados a Prov Extranjeros Capex	46.93	46.93	40.76	38.97
+	211300	42290098 Anticipos otorgados a Prov Capex Valoracion ME	0.26-	0.26-	0.07-	0.08-
+	211300	42290099 Anticipos otorgados a Proveedores - Valoracion ME	0.35-	0.35-	0.34-	0.10-
+	211300	OTRAS CUENTAS POR COBRAR (NETO)	386.99	386.99		
+	211300					
+	211400	13113010 Fact, bol y otro x cobrar Asociadas - No Emitidas	0.15	0.15	0.11	0.1
+	211400	13123010 Fact, bol y otros x cobrar Asociadas - Emitidas	4.91	4.91	1.54	4.03
+	211400	17800010 Otras cuentas por Cobrar Diversas - Afiliadas	0.07	0.07	0.05	0.03
+	211400	17890099 Otras Ctas x Cob Divers. Asociadas - Valoracion ME	0	0	0	0
+	211400	CUENTAS POR COBRAR A ENTIDADES RELACIONADAS	5.14	5.14		
+	211400					
+	211500	25210010 Suministros - Carbon	121.15	121.15	71.07	90.67
+	211500	25210030 Suministros - Petroleo Diesel 2 - Ilo 1	0	0	0	0
+	211500	25210060 Suministros - Petroleo Diesel 2 B5 - S5	1879.85	1879.85	1178.9	937.36
+	211500	25220010 Suministros - Lubricantes	7.33	7.33	0.78	4.99
+	211500	25240010 Suministros - Materiales Diversos	49.34	49.34	42.69	39.3
+	211500	25240020 Suministros - Productos Quimicos	5.07	5.07	1.15	3.11
+	211500	25240030 Suministros - Consumibles	17.03	17.03	11.88	16.06
+	211500	25240040 Suministros - Utiles de oficina	0.4	0.4	0.15	0.39
+	211500	25300010 Suministros - Repuestos	729.41	729.41	109.28	35.38
+	211500	29620010 Desvalorizacion de Existencias - Suministros	412.60-	412.60-	273.48-	349.78-
+	211500	INVENTARIOS	2396.98	2396.98		
+	211500					
+	211600	18200010 Seguros de Asistencia Medica Familiar Pagados	16.94	16.94	1.97	7.31
+	211600	18200020 Seguros de Vida Pagados por Anticipado	0.54	0.54	0.47	0.35
+	211600	18200030 Seguro Complementario Riesgo Pagado por Anticipado	1.37	1.37	0.68	0.3
+	211600	18200050 Seguros Vehiculares pagados por adelantado	0.28	0.28	0.19	0.21
+	211600	18200090 Seguros responsabilidad civil 3ros Pagado Anticip	0.13	0.13	0	0.12
+	211600	18200990 Otros Seguros Pagados por Adelantado	0.01	0.01	0.01	0
+	211600	18300010 Alquileres de Inmuebles Pagado por Anticipado	0.87	0.87	0.26	0.59
+	211600	18900099 Otros gtos.pagado adelantado A.V.M.E	0.08	0.08	0.05	0.01
+	211600	18902010 Derecho Usufructo Pagado Anticipado - Corto Plazo	13.58	13.58	2	5.1
+	211600	18904010 Derecho Contrato Venta - Corto Plazo	231.08	231.08	84.21	21.74
+	211600	18909080 Otros Gastos Pagados por Anticipado	0.71	0.71	0.49	0.33
+	211600	18909090 Otros Gastos Pagados por Anticipado	20.93	20.93	20.55	7.99
+	211600	GASTOS PAGADOS POR ANTICIPADO	286.52	286.52		
+	211600					
+	211000	TOTAL ACTIVO CORRIENTE	10354.89	10354.89		
+	212000	ACTIVO NO CORRIENTE				
+	212000					
+	212100	16620020 Instrum. Financ.Cobert. - SWAPs Tasa de Interes	435.13	435.13	361.92	61.69
+	212100	46420010 Instru.Finan.de Cobert - Swaps - Tasa de Intereses	94.00-	94.00-	14.01-	87.89-
+	212100	46420040 Instru.financ. de cobertura - Swaps Tipo de cambio	542.51-	542.51-	22.81-	334.30-
+	212100	OTROS ACTIVOS FINANCIEROS	201.38-	201.38-		
+	212100					
+	212200	18500010 Mantenimiento Pagado Anticipado de Activos Fijos	514.15	514.15	101.75	454.16
+	212200	OTRAS CUENTAS POR COBRAR	514.15	514.15		
+	212200					
+	212310	18910010 Asset retirement obligation (ARO)	310.89	310.89	248.17	225.31
+	212310	18910030 Edificaciones Arrendamiento (Derecho Uso) IFRS 16	2356.37	2356.37	354.72	1022.9
+	212310	18910040 Equip de Transporte Vehiculos Motorizados (IFRS16)	129.21	129.21	34.45	42.47
+	212310	32220010 Arrendamiento Financ - Edificios y Obras Civiles	4458.38	4458.38	739.36	90.81
+	212310	32230010 Arrendamiento Financiero - Maquinarias y Equipos	28539.16	28539.16	17568.98	20867.81
+	212310	33111010 Inmuebles - Terrenos	134.23	134.23	132.45	34.79
+	212310	33112010 Inmuebles - Terrenos - Revaluacion	113.66	113.66	111.96	74.08
+	212310	33211010 Edificaciones administrativas - Costo	126.26	126.26	82.37	31.56
+	212310	33212010 Edificaciones administrativas - Revaluacion	0.09-	0.09-	0.07-	0.03-
+	212310	33221010 Edificaciones almacenes - Costo	54.55	54.55	20.46	43.5
+	212310	33222010 Edificaciones almacenes - Revaluacion	0.76-	0.76-	0.18-	0.53-
+	212310	33231010 Edificaciones para produccion - Costo	3699.63	3699.63	979.84	541.09
+	212310	33231110 Edificaciones para produccion - Costo Hidroelect.	12854.54	12854.54	4708.72	7270.99
+	212310	33232010 Edificaciones para produccion - Revaluacion	2.19-	2.19-	1.79-	0.15-
+	212310	33233010 Costo de financiacion - Edificaciones produccion	82.67	82.67	10.43	13.16
+	212310	33241010 Edificaciones instalaciones - Costo	459.55	459.55	314.92	381.48
+	212310	33242010 Edificaciones instalaciones - Revaluacion	0.21	0.21	0.21	0.08
+	212310	33251010 Estructuras Lineas de Transmision	159.5	159.5	79.88	141.12
+	212310	33251110 Estructuras Lineas de Transmision Hidroelectrica	385.86	385.86	198.38	166.24
+	212310	33311010 Maquinarias y equipos de explotacion - Costo	15755.47	15755.47	7949.09	9338.16
+	212310	33311110 Maquinarias y equipos de explot - Costo Hidroelect	2390.32	2390.32	2246.15	1843.35
+	212310	33312010 Maquinarias y equipos de explotacion - Revaluacion	10.90-	10.90-	8.98-	9.50-
+	212310	33313010 Costo de financiacion - Maq y equip de explotacion	1138.01	1138.01	478.18	99.35
+	212310	33411010 Equip de Transporte Vehiculos Motorizados - Costo	113.44	113.44	0.84	5.6
+	212310	33412010 Equip Transporte Motorizados - Revaluacion	5.41	5.41	4	0.89
+	212310	33421010 Vehículos no motorizados - Costo	0.02	0.02	0.01	0.01
+	212310	33511010 Muebles - Costo	80.3	80.3	41.64	39.75
+	212310	33512010 Muebles - Revaluacion	1.39-	1.39-	0.12-	0.79-
+	212310	33521010 Enseres - Costo	9.11	9.11	0.93	6.46
+	212310	33611010 Equipos de Procesamiento de Informacion - Costo	111.83	111.83	43.17	54.7
+	212310	33612010 Equip Procesamiento de Informacion - Revaluacion	0.27-	0.27-	0.03-	0.15-
+	212310	33621010 Equipos de comunicacion - Costo	119.69	119.69	57.87	105.14
+	212310	33622010 Equipos de comunicacion - Revaluacion	0.85-	0.85-	0.71-	0.39-
+	212310	33631010 Equipos de seguridad - Costo	109.67	109.67	73.34	44.55
+	212310	33631110 Equipos de seguridad - Costo Hidroelectrica	4.41	4.41	3.44	3.89
+	212310	33632010 Equipos de seguridad - Revaluacion	0.90-	0.90-	0.65-	0.30-
+	212310	33691010 Otros Equipos - Costo	1058.45	1058.45	659.96	650.76
+	212310	33691110 Otros Equipos - Costo Hidroelectrica	1.14	1.14	0.15	0.14
+	212310	33692010 Otros Equipos - Revaluacion	3.84-	3.84-	2.84-	3.58-
+	212310	33711010 Herramientas - Costo	48.56	48.56	43.72	22.16
+	212310	33712010 Herramientas - Revaluacion	1.35	1.35	1.15	1.31
+	212310	33721010 Unidades de Reemplazo - Costo	575.92	575.92	21.38	414.48
+	212310	33722010 Unidades de Reemplazo - Revaluacion	7.39-	7.39-	2.10-	2.93-
+	212310	33920010 Construcciones en curso - Leasing	56.83	56.83	1.92	52.5
+	212310	33920011 Construcciones en curso	126.22	126.22	57.28	7.06
+	212310	33930010 Maquinaria en montaje - Leasing	197.61	197.61	194.12	149.89
+	212310	33930011 Maquinaria en montaje	216.95	216.95	151.92	103.1
+	212310	33990010 Otros Activos en Curso	191.71	191.71	98.2	116.67
+	212310	PROPIEDADES PLANTA Y EQUIPO	76148.47	76148.47		
+	212320	18909970 Prov. Dep Acum Equipos Electromecánicos	170.51-	170.51-	117.18-	39.76-
+	212320	18910020 Prov. Dep Acum Asset retirement obligation	201.23-	201.23-	137.23-	26.77-
+	212320	18910031 Depreciacion Acum de Edificaciones (IFRS 16)	1158.41-	1158.41-	45.08-	438.41-
+	212320	18910041 Dep Acum de Unidades de Transporte (IFRS16)	76.25-	76.25-	10.53-	9.58-
+	212320	18910090 Prov. Desvalorizacion Maq y eq explotación	801.42-	801.42-	612.82-	215.11-
+	212320	39122010 Dep Acum Edificios y Obras Civiles - Arrend Finan	1083.14-	1083.14-	67.24-	1061.56-
+	212320	39123010 Dep Acum Maq y Equipos - Arrend Financiero	5253.64-	5253.64-	3113.62-	3918.26-
+	212320	39131010 Depreciacion Acum de Edificaciones y Obras Civiles	2106.08-	2106.08-	1970.86-	2056.52-
+	212320	39131020 Depreciacion Acum de Estructura Linea Transmision	34.66-	34.66-	12.89-	2.76-
+	212320	39131110 Deprec Acum de Edific. y Obras Civiles Hidroelect.	736.46-	736.46-	729.81-	26.23-
+	212320	39131120 Deprec Acum Estructura Linea Transmision Hidroelec	49.17-	49.17-	31.44-	23.20-
+	212320	39132010 Dep Acum de Maquinarias y equipos de explotacion	8722.03-	8722.03-	5506.00-	2370.67-
+	212320	39132110 Dep Acum de Maquin y equipos de explot Hidroelect.	216.48-	216.48-	134.85-	3.73-
+	212320	39133010 Dep Acum de Unidades de Transporte	63.47-	63.47-	19.07-	1.66-
+	212320	39134010 Dep Acum de Muebles y Enseres	77.82-	77.82-	15.07-	59.35-
+	212320	39135010 Dep Acum de Equipos Diversos	1088.73-	1088.73-	922.95-	657.94-
+	212320	39135110 Dep Acum de Equipos Diversos Hidroelectrica	1.12-	1.12-	1.05-	0.93-
+	212320	39136010 Deprec Acum Repuestos Estrategicos	319.48-	319.48-	276.97-	315.27-
+	212320	39137010 Deprec Acum Herramientas	21.42-	21.42-	4.26-	15.50-
+	212320	39141010 Dep Acum Edificaciones y Obras Civiles Revaluacion	0.78	0.78	0.53	0.74
+	212320	39142010 Dep Acum Maq y equip de explotacion - Revaluacion	4.62	4.62	0.56	4.23
+	212320	39143010 Dep Acum Unidades Transporte - Revaluacion	5.41-	5.41-	3.59-	3.94-
+	212320	39144010 Dep Acum Muebles y Enseres - Revaluacion	1.35	1.35	0.11	1.24
+	212320	39145010 Dep Acum Equip Diversos - Revaluacion	4.44	4.44	0.86	3.29
+	212320	39145020 Dep Acum de Eq proc Informacion - Revaluacion	0.27	0.27	0	0.15
+	212320	39146010 Deprec Acum Repuesztos Extrategicos - Revaluacion	2.22	2.22	0.56	1.6
+	212320	39147010 Deprec Acum Herramientas - Revaluacion	0.08	0.08	0.05	0.01
+	212320	39151010 Dep Acum Costo Financ Edificaciones	45.56-	45.56-	13.96-	20.78-
+	212320	39152010 Dep Acum Costo Financ  Maq y equip explotación	170.79-	170.79-	65.05-	37.91-
+	212320	DEPRECIACIÓN ACUMULADA	22389.52-	22389.52-		
+	212300	PROPIEDADES, PLANTA Y EQUIPO (NETO)	53758.95	53758.95		
+	212300					
+	212410	34111010 Derechos de concesion Yuncan	1711.96	1711.96	476.13	300.64
+	212410	34121010 Intangibles - Licencias - Costo	32.41	32.41	28.51	2.17
+	212410	34191010 Intangibles - Derechos por Servidumbre - Costo	62.68	62.68	47.37	55.76
+	212410	34311010 Aplicaciones informaticas (software) - Costo	159.57	159.57	36.44	32.62
+	212410	34710010 Plusvalia mercantil (goodwill)	78.66	78.66	25.75	13.63
+	212410	34900010 Otros Activos Intangibles	1484.73	1484.73	269.99	660.9
+	212410	ACTIVOS INTANGIBLES	3530.01	3530.01		
+	212420	39211020 Amort Acum Conces Licencias y otros	59.12-	59.12-	53.81-	40.38-
+	212420	39211030 Amortizacion Derechos Concesion Yuncan	841.71-	841.71-	141.55-	82.25-
+	212420	39213010 Amort Acum Programas de computadora (software)	154.19-	154.19-	16.97-	98.17-
+	212420	39219010 Amort Acum de Otros Activos Intangibles	104.18-	104.18-	44.05-	77.84-
+	212420	AMORTIZACIÓN ACUMULADA	1159.21-	1159.21-		
+	212400	ACTIVOS  INTANGIBLES (NETO)	2370.8	2370.8		
+	212400					
+	212500	18902020 Derecho Usufructo Pagado Anticipado - Largo Plazo	154.92	154.92	106.19	101.05
+	212500	18904020 Derecho Contrato Venta - Largo Plazo	1236.49	1236.49	722.99	940.48
+	212500	18905020 Derecho Opcion Venta Distribuidoras - Largo Plazo	330.68	330.68	149.76	47.27
+	212500	OTROS ACTIVOS NO CORRIENTES	1722.1	1722.1		
+	212500					
+	212000	TOTAL ACTIVO NO CORRIENTE	58164.61	58164.61		
+	210000	TOTAL ACTIVO	68519.5	68519.5		
+	210000					
+	220000	PASIVO Y PATRIMONIO NETO				
+	220000	================================				
+	221100	PASIVO CORRIENTE				
+	221110	45200010 Contratos de arrendamiento financiero Corto Plazo	2725.17-	2725.17-	380.90-	16.45-
+	221110	45200012 Contratos arrendamiento financiero CP (IFRS16)	203.55-	203.55-	98.11-	172.49-
+	221110	45430010 Bonos por pagar Corto Plazo	473.49-	473.49-	220.01-	338.99-
+	221110	45439998 Bonos por Pagar - Valoracion ME CP	84.09	84.09	48.72	45.5
+	221110	OTROS PASIVOS FINANCIEROS	3318.11-	3318.11-		
+	221110					
+	221120	42110010 Facturas, boletas y otros por pagar - Por Recibir	407.65-	407.65-	271.05-	292.25-
+	221120	42110011 Fact, boletas y otros por pag - Por Recibir Capex	51.70-	51.70-	9.30-	37.52-
+	221120	42110020 Fact, bol, otros x pagar - Por recibir Importacion	1.73-	1.73-	0.42-	0.69-
+	221120	42110021 Fact, bol, otros x pagar - Por recibir Impor CapeX	23.43-	23.43-	22.93-	13.81-
+	221120	42110030 Facturas, boletas y otros por pagar - No Emitidas	806.14-	806.14-	776.02-	541.10-
+	221120	42110060 Facturas, boletas y otros por pagar - Por Rec LP	205.97-	205.97-	61.66-	8.95-
+	221120	42119098 Fact, bol y otros x Pagar No Emitidas Capex VME	0.51	0.51	0.34	0.08
+	221120	42119099 Fact, bol y otros x Pagar No Emitidas - Val ME	6.6	6.6	1.81	0.52
+	221120	42120010 Facturas por Pagar Proveedores Nacionales	431.81-	431.81-	62.09-	344.37-
+	221120	42120011 Facturas por Pagar Proveed Nacionales Capex	0	0	0	0
+	221120	42120020 Facturas por Pagar Proveedores Exterior (Bienes)	3.90-	3.90-	2.88-	3.40-
+	221120	42120021 Facturas por Pagar Proveed Extr (Bienes) Capex	0.93-	0.93-	0.13-	0.47-
+	221120	42120030 Facturas por pagar Proveedor Exterior (Servicios)	19.33-	19.33-	6.30-	16.20-
+	221120	42120031 Facturas por pagar Proveed Ext (Servicios) Capex	36.22-	36.22-	32.98-	30.07-
+	221120	42129098 Fact, bol y otros x Pagar Emit - Capex VME	0	0	0	0
+	221120	42129099 Fact, bol y otros x Pagar Emitidas - Valoracion ME	0.80-	0.80-	0.52-	0.32-
+	221120	42400010 Recibos por Honorarios por Pagar	0.95-	0.95-	0.30-	0.62-
+	221120	42490099 Recibos por Honorarios por Pagar - VME	0.01-	0.01-	0.01-	0
+	221120	CUENTAS POR PAGAR COMERCIALES	1983.46-	1983.46-		
+	221120					
+	221130	40111010 Impuesto General a las Ventas - Ventas	246.89-	246.89-	178.25-	127.13-
+	221130	40111020 Impuesto General a las Ventas - Compras	247.13	247.13	141.28	163.41
+	221130	40111030 IGV - Serv de no domiciliados - Credito Fiscal	2.99	2.99	0.65	1.56
+	221130	40112010 IGV - Serv de no domiciliados - Por pagar	2.99-	2.99-	1.69-	1.24-
+	221130	40114020 IGV - Regimen de Retenciones 3% - Compras	2.98-	2.98-	1.10-	1.19-
+	221130	40119099 Impuesto general a las ventas - VME	0.46-	0.46-	0.43-	0.14-
+	221130	40172010 Impuesto a la Renta de Cuarta Categ - Retencion	0.15-	0.15-	0.02-	0.13-
+	221130	40173010 Impuesto a la Renta de Quinta Categoria	9.46-	9.46-	7.72-	5.49-
+	221130	40174010 Impuesto a la Renta No Domiciliados - Retenciones	0.05-	0.05-	0.04-	0.05-
+	221130	40179099 Impuesto a la renta - VME	1.92	1.92	0.53	1.24
+	221130	40189010 Tributo Electrificacion Rural por Pagar	28.66-	28.66-	11.78-	4.69-
+	221130	40189020 Contribución FISE	15.15-	15.15-	0.88-	0.68-
+	221130	40189099 Otros impuestos y contribuaciones - VME	4.31-	4.31-	0.61-	0.54-
+	221130	40319099 Tributos por pagar Essalud - VME	0.01	0.01	0	0
+	221130	40320010 Sistema Nacional de Pensiones - ONP	0.06-	0.06-	0.03-	0.05-
+	221130	40329099 Tributos por pagar ONP - VME	0	0	0	0
+	221130	40330010 Contribucion al SENATI	0.10-	0.10-	0.03-	0.06-
+	221130	40339099 Contribuciones por pagar - VME	0	0	0	0
+	221130	40390010 Contribucion - OSINERGMIN 65%	5.08-	5.08-	0.40-	0.75-
+	221130	40390020 Contribucion - MINIST ENERGIA Y MINAS 35%	3.48-	3.48-	2.19-	2.21-
+	221130	40390050 Contribucion - OEFA 0.11%	1.10-	1.10-	0.98-	0.13-
+	221130	44120010 Dividendos por Pagar a Accionistas Minoritarios	1.12-	1.12-	0.78-	0.45-
+	221130	45511010 Obligaciones Financieras Bancarias - Intereses	67.83-	67.83-	46.34-	25.95-
+	221130	45520010 Arrendamiento financiero  Operativo - Costo Financ	30.24-	30.24-	3.27-	29.61-
+	221130	45533010 Bonos - Costo de Financimiento por pagar	270.35-	270.35-	112.47-	155.65-
+	221130	45590099 Costos de financiación por pagar - Valoracion M.E.	1.18	1.18	0.66	0.59
+	221130	46990040 Descuento x Pag. Sindicato Enersur Remuneraciones	0	0	0	0
+	221130	46990090 Otras Cuentas por Pagar Diversas	22.35-	22.35-	11.22-	9.62-
+	221130	46990100 Otras Cuentas por Pagar - ARO	297.67-	297.67-	254.46-	218.83-
+	221130	46999099 Otras Cuentas por Pagar Diversas - Valoracion M.E.	0.07	0.07	0.02	0.01
+	221130	OTRAS CUENTAS POR PAGAR	757.17-	757.17-		
+	221130					
+	221140	43110010 Fact, bolet, otros x pagar - No Emitidas Afiliadas	8.25-	8.25-	7.44-	4.91-
+	221140	43110011 Fact, otros por pagar Afiliadas- Por recibir Capex	21.08-	21.08-	15.83-	7.89-
+	221140	43110012 Fact, otros por pagar Afiliadas- Por recibir Capex	19.7	19.7	9.78	14.26
+	221140	43110013 Fact, bolet, otros x pagar Afiliadas - Por recibir	3.01-	3.01-	2.15-	2.53-
+	221140	43120010 Facturas, bol, otros x pagar - Emitidas Asociadas	1.30-	1.30-	0.39-	0.40-
+	221140	43120011 Fact, bol, otros x pag - Emitidas Vinculadas Capex	6.89-	6.89-	1.66-	1.87-
+	221140	43120030 Facturas, bol, otros x pagar - Emitidas Matriz	0.45-	0.45-	0.05-	0.22-
+	221140	43190098 Fact y otros x Pagar Afili Capex - Valoracion ME	1.10-	1.10-	0.70-	0.67-
+	221140	43190099 Fact bol y otros x Pagar Afiliadas - Valoracion ME	1.18-	1.18-	0.98-	0.45-
+	221140	43290099 Anticipos Otorgados a Relacionadas - Valoracion ME	0.02-	0.02-	0	0
+	221140	CUENTAS POR PAGAR A ENTIDADES RELACIONADAS	23.59-	23.59-		
+	221140					
+	221150	40171020 Impuesto a la Renta Tercera Categ - Pagos a cuenta	102.59	102.59	30.89	84.56
+	221150	40171021 Impuesto a la Renta Tercera Categ - Saldo a Favor	952.27	952.27	945.62	65.6
+	221150	40171030 Impuesto Temporal a los Activos Netos - Credito	208.43	208.43	30.76	178.09
+	221150	PASIVOS POR IMPUESTOS A LAS GANANCIAS	1263.29	1263.29		
+	221150					
+	221160	40310010 Seguro Social de Salud - ESSALUD	3.03-	3.03-	2.25-	0.04-
+	221160	40310020 Seguro de Vida Essalud - ESSALUD Vida	0	0	0	0
+	221160	40700010 Administradoras de Fondos de Pensiones	5.56-	5.56-	4.59-	3.93-
+	221160	40790099 Administradoras de Fondos de Pensiones - Val M.E.	0.04	0.04	0.01	0.02
+	221160	41110010 Sueldos y Salarios por Pagar	88.52-	88.52-	64.81-	88.39-
+	221160	41130010 Bonificaciones por pagar	50.31-	50.31-	1.16-	6.91-
+	221160	41140010 Gratificaciones por Pagar	25.50-	25.50-	20.58-	4.13-
+	221160	41150010 Vacaciones por pagar	47.34-	47.34-	14.21-	31.80-
+	221160	41300010 Participacion Trabajadores por Pagar Corriente	71.85-	71.85-	24.85-	4.01-
+	221160	41510010 Compensacion por Tiempo de Servicios - CTS	3.12-	3.12-	1.10-	2.40-
+	221160	41900099 Remuneraciones y Part por Pagar - Valoracion M.E.	5.94	5.94	1.79	1.88
+	221160	PROVISIÓN POR BENEFICIOS A LOS EMPLEADOS	289.26-	289.26-		
+	221160					
+	221100	TOTAL PASIVO CORRIENTE	5108.30-	5108.30-		
+	221200	PASIVO NO CORRIENTE				
+	221210	45110020 Obligaciones Financieras Bancarias Largo Plazo	4721.48-	4721.48-	1154.67-	6543.84-
+	221210	45190096 Obligaciones Financieras Bancarias Largo Plazo VME	90.65	90.65	31.68	7.09
+	221210	45200020 Contratos de arrendamiento financiero Largo Plazo	1842.57-	1842.57-	558.99-	847.74-
+	221210	45200022 Contratos arrendamiento financiero LP (IFRS16)	249.77-	249.77-	36.00-	37.80-
+	221210	45430020 Bonos por pagar Largo Plazo	8904.84-	8904.84-	343.59-	8403.94-
+	221210	45439999 Bonos por Pagar - Valoracion ME LP	367.77	367.77	66.34	295.72
+	221210	OTROS PASIVOS FINANCIEROS	15260.24-	15260.24-		
+	221210					
+	221220	37100010 Impuesto a la Renta Diferido	100.63-	100.63-	69.20-	97.49-
+	221220	49120010 Impuesto a la Renta Diferido - Resultados	11278.78-	11278.78-	663.51-	262.79-
+	221220	49120030 Impuesto a la Renta Diferido - Resultado Trib	471.1	471.1	467.38	361.08
+	221220	49130010 Impuesto a la renta diferido - Revaluacion	35.67-	35.67-	2.88-	10.39-
+	221220	49610020 Ingresos Diferidos	107.66-	107.66-	96.98-	23.43-
+	221220	PASIVOS POR IMPUESTOS A LAS GANANCIAS DIFERID	11051.65-	11051.65-		
+	221220					
+	221200	TOTAL PASIVO NO CORRIENTE	26311.89-	26311.89-		
+	221000	TOTAL PASIVO	31420.19-	31420.19-		
+	222000	PATRIMONIO NETO				
+	222000					
+	222100	50110010 Capital Social - Acciones	6895.83-	6895.83-	3411.31-	4564.08-
+	222100	CAPITAL EMITIDO	6895.83-	6895.83-		
+	222100					
+	222200	52100010 Capital Adicional - Prima de Emision Acciones	1130.69-	1130.69-	641.99-	412.31-
+	222200	PRIMAS DE EMISIÓN	1130.69-	1130.69-		
+	222200					
+	222300	58200010 Reserva Legal - LGS (L.16123 Art. 258) DL.637	1379.17-	1379.17-	868.99-	1213.27-
+	222300	OTRAS RESERVAS DE CAPITAL	1379.17-	1379.17-		
+	222300					
+	222400	56200010 Reserva Intrume.Financie.Swap's Tasa de Interes	341.13-	341.13-	56.32-	303.39-
+	222400	56200030 Impto.Diferido de SWAPS - Tasa de Interes	100.63	100.63	45.82	71.46
+	222400	OTRAS RESERVAS DE PATRIMONIO	240.50-	240.50-		
+	222400					
+	222500	58500010 Reserva de Libre Disposicion	1326.79-	1326.79-	56.67-	1324.39-
+	222500	58900010 Reserva de Ajustes por Adopcion NIIF's	103.37	103.37	76.65	64.18
+	222500	59110010 Utilidades acumuladas desde 2015	20169.13-	20169.13-	16935.29-	9618.06-
+	222500	59110011 Utilidades acumuladas al 2014	4609.43-	4609.43-	3791.83-	4506.92-
+	222500	59110012 Utilidad del periodo	1451.19-	1451.19-	770.33-	747.23-
+	222500	RESULTADOS ACUMULADOS	26001.98-	26001.98-		
+	222500					
+	222000		35648.17-	35648.17-		
+	220000	TOTAL PASIVO Y PATRIMONIO NETO ANTES IMPTOS.	67068.35-	67068.35-		
+	220000					
+	200000	UTILIDAD DEL PERIODO	1451.15	1451.15		
+	200000					
+						
+02.07.2020                                           Salida dinámica de lista                                                  2						
+						
+ENGIE ENERGÍA PERU S. A.              Estado de Situación Financiera & Resultados             Hora 13:35:32     Fecha 02.07.2020						
+Perú                      Ledger 0L                                                           RFBILA00/LPOMA    Página         2						
+						
+10			Tipo de moneda Moneda de sociedad			
+USD			Imptes en Dólar americano			
+2020.01 -2020.05			Períodos del informe			
+2020.01 -2020.05			Períodos de comparación			
+						
+	Posición	Texto p.posición balance/PyG			Desv.abs.	Desv.rel.
+						
+	100000	ESTADO DE RESULTADOS				
+	100000	=============================================				
+						
+02.07.2020                                           Salida dinámica de lista                                                  4						
+						
+ENGIE ENERGÍA PERU S. A.              Estado de Situación Financiera & Resultados             Hora 13:35:32     Fecha 02.07.2020						
+Perú                      Ledger 0L                                                           RFBILA00/LPOMA    Página         4						
+						
+10			Tipo de moneda Moneda de sociedad			
+USD			Imptes en Dólar americano			
+2020.01 -2020.05			Períodos del informe			
+2020.01 -2020.05			Períodos de comparación			
+						
+	Posición	Texto p.posición balance/PyG		         TotPerInf	Desv.abs.	Desv.rel.
+						
+	1			0	0	

@@ -1,0 +1,1 @@
+In this task, I use a .txt export from SAP in Excel, prepare and clean the data in Power Query, and made a relational database model in Power Pivot for a dynamic table to display the information. Also, I made a report in Power BI to showcase key data.
